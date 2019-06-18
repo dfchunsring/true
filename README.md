@@ -1,14 +1,14 @@
 <div align="center"><IMG SRC="true/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://114.43.35.116</h3></div>
 
- <div align="center"><IMG SRC="true/img-2/fngrchn3.jpg" width=580></div></p>
+ <div align="center"><IMG SRC="true/img/fngrchn3.jpg" width=580></div></p>
   <div align=center>
 <h2><b><a href="https://git.io/ffq">● 免费突破封锁翻墙软件 ● </a></b></h2></div>
 
 <div align=center>
 <h2><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h2></div>
 
-<div align="center"><IMG SRC="true/img-2/fngrchn3.jpg" width=580></div></p>
+<div align="center"><IMG SRC="true/img/fngrchn3.jpg" width=580></div></p>
 
 
 <table>
